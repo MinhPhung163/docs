@@ -265,7 +265,7 @@
     "cookie-parser": "^1.4.7",
     "cuss": "2.2.0",
     "dayjs": "^1.11.3",
-    "dotenv": "^16.4.5",
+    "dotenv": "^17.1.0",
     "escape-string-regexp": "5.0.0",
     "express": "4.21.2",
     "express-rate-limit": "7.4.0",
